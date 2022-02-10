@@ -7,7 +7,7 @@
 from funtranslations import FunTranslation
 
 translation = FunTranslation("yoda")
-print(translation.translate("whay do you think about me?"))
+print(translation.translate("what do you think about me?"))
 ```
 
 ## Requirements
